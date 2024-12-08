@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-  const ToDoApp = url => {
+  const ToDoApp = (url: string): void => {
     window.open(url)
   }
   
