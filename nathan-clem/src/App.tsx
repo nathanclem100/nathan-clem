@@ -1,5 +1,6 @@
+import './App.css'
+
 function App() {
-<link rel="stylesheet" href="App.css" />
   const ToDoApp = url => {
     window.open(url)
   }
